@@ -2,11 +2,13 @@
 <br>
 Task 1- Stock Prediction
 <ul>In this we use stock price of TCS company
- and predicts its price by using LSTM.
- Use only Jupyter notebook</ul>
-<br>
+ and predicts its price by using LSTM.</ul>
 Dataset- TCS.NSE.csv
 <br>
 Task 2- Titanic Classification
-<br>
+<ul></li>A system which tells whether the person will be
+ save from sinking. The factors were
+ most likely lead to success-socio-economic
+ status, age, gender and more.</ul>
+ <ul>We use in this Logistic Regression</ul>
 Dataset- titanic_survival_tested.csv
