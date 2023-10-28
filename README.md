@@ -10,5 +10,4 @@ Task 2- Titanic Classification
  save from sinking. The factors were
  most likely lead to success-socio-economic
  status, age, gender and more.</ul>
- <ul>We use in this Logistic Regression</ul>
 Dataset- titanic_survival_tested.csv
