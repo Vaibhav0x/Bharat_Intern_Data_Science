@@ -5,6 +5,7 @@ Task 1- Stock Prediction
  and predicts its price by using LSTM.</ul>
 Dataset- TCS.NSE.csv
 <br>
+<br>
 Task 2- Titanic Classification
 <ul></li>A system which tells whether the person will be
  save from sinking. The factors were
